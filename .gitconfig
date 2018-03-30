@@ -1,0 +1,20 @@
+[user]
+        name = Angelos Chaidas
+        email = achaidas@gmail.com
+[alias]
+        st = status
+        ci = commit
+        co = checkout
+        br = branch
+        latest = for-each-ref --count=10 --sort=-committerdate refs/heads --format='%(refname:short)'
+[color]
+        branch = auto
+        diff = auto
+        interactive = auto
+        status = auto
+[merge]
+        log = true
+        summary = true
+        ff = false
+[core]
+        autocrlf = true
