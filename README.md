@@ -1,2 +1,2 @@
-# dotfiles
-My public dotfiles
+# Dotfiles
+My dotfiles
