@@ -1,6 +1,6 @@
 [user]
         name = Angelos Chaidas
-        email = achaidas@gmail.com
+        # email = {add email here}
 [alias]
         st = status
         ci = commit
